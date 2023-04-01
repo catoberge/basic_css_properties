@@ -1,0 +1,45 @@
+/* Colors and fonts */
+/* Examples */
+
+background-color: #000;
+color: #fff;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+
+
+/* Padding, margin, height, width */
+/* Example */
+
+padding: 2px;
+padding: 2em;
+padding: 2rem 5rem;
+
+margin: 0 auto;
+
+height: 32px;
+height: 100vh;
+
+width: 32px;
+width: 33%;
+width: 100vw;
+max-width: max-content;
+
+
+/* Border */
+/* Examples */
+
+border: 1px solid transparent;
+border-radius: .375rem;
+
+/* Display */
+/* Examples */
+
+display: flex;
+justify-content: center;
+
+justify-content: space-between;
+justify-content: space-around;
+
+align-items: center;
+
+flex-wrap: wrap;
